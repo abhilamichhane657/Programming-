@@ -1,0 +1,11 @@
+ASSIGNMENT (1):
+1. Declare a name variable and an age variable, then create an f-string that says "My name is [name] and I'm [age] years old."
+2. Declare a variable fruit with value 'apple' and quantity with value, Use an f-string to print "I have 10 apples."
+3. Declare variables day, month, and year. Use these to construct an f-string to print a date in the "dd-mm-yyyy" format.
+4. Declare variables community with value 'Python developers' and population with value 20000. Now, create an f-string to print "There are 20000 Python developers." 
+5. Create two variables price and item. Use an f-string to print "[item] costs [price] dollars." 
+6. Declare a firstName and lastName variable. Create an f-string to print the full name in the format "Last, First".
+7. Create variables length=5 and width=10. Create an f-string that calculates and prints "The area of the rectangle is 50." 
+8. Make pi a variable with value 3.14159. Use an f-string to print "Pi to two decimal places is 3.14." 
+9. Create radius variable for a circle. Use an f-string to print the circumference of the circle (Circumference of a circle is 2pir). 
+10. Using f-string print "10 times 5 equals to 50". This should be done without directly typing '50' in your f-string code. @all KIndly, complete the questions by today and submit the file for the review.
